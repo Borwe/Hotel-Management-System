@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11   CMakeFiles/testing.dir/src/test.cpp.o  -o testing  -L/home/brian/Downloads/c++Libs/poco-build/lib -Wl,-rpath,/home/brian/Downloads/c++Libs/poco-build/lib -rdynamic -lPocoNet -lPocoUtil -lPocoFoundation 
